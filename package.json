@@ -1,6 +1,6 @@
 {
-  "name": "fs_cli_todos",
-  "version": "1.0.1",
+  "name": "raw12_cli_todos",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
